@@ -28,5 +28,5 @@ We downloaded 16S rRNA sequences from NCBI and fine-tuned DNA-BERT with LoRA to 
 
 
 <p align="center">
-	<img src="figs/lossers_slide.png" alt="LOSSERS slide" width="360" />
+	<img src="figs/lossers_slide.png" alt="LOSSERS slide" width="720" />
 </p>
