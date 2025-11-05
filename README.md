@@ -25,3 +25,8 @@ We downloaded 16S rRNA sequences from NCBI and fine-tuned DNA-BERT with LoRA to 
 
 - Balanced accuracy: 83%
 - Macro F1: 0.80
+
+
+<p align="center">
+	<img src="figs/lossers_slide.png" alt="LOSSERS slide" width="360" />
+</p>
